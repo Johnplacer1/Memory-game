@@ -1,2 +1,2 @@
-# Memory-game
-This game is used to improve your brain's memory.
+# Memorendum
+Just for human's memory test game
